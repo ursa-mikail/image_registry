@@ -94,7 +94,7 @@ if __name__ == "__main__":
     print("Data exported to images_export.csv")
     
     # Update example
-    update_image(conn, "example_image", "new_data", "team_b", "owner_b", secret_key, "suspended", "https://example.com/cve-details")
+    update_image(conn, "example_image", "example_data", "team_b", "owner_b", secret_key, "suspended", "https://example.com/cve-details")
 
     # Export to CSV example
     export_to_csv(conn, "images_export_new.csv")

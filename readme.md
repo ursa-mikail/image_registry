@@ -8,6 +8,8 @@ Delete: Removes an image record by its name.
 sql to create, read, write, update, delete as a simple registry.
 There is also a function to export sql to csv.
 
+![change_in_status](change_in_status.png)
+
 `status_signature` field represents a signature created by hashing all the fields in the record.
 `status_url field` for notes on the status, such as a CVE URL when the status is "suspended."
 
