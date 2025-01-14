@@ -1,9 +1,11 @@
+
+<pre>
 Table Creation: Initializes the database and ensures the image table exists.
 Create: Inserts a new record into the image table.
 Read: Retrieves an image record by its name.
 Update: Updates an existing image record by its name.
 Delete: Removes an image record by its name.
-
+</pre>
 
 sql to create, read, write, update, delete as a simple registry.
 There is also a function to export sql to csv.
